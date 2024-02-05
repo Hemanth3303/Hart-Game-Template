@@ -39,4 +39,5 @@ print(CMAKE_LIBRARY_OUTPUT_DIRECTORY)
 print(CMAKE_RUNTIME_OUTPUT_DIRECTORY)
 
 
-add_subdirectory("vendor/Hart-Engine")
+add_subdirectory("vendor/Hart")
+add_subdirectory("Game")
