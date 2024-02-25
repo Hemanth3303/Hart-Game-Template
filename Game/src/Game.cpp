@@ -1,3 +1,4 @@
+#include "Core/EntryPoint.hpp"
 #include "Hart.hpp"
 
 class Game : public Hart::Application {
